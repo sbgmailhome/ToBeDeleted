@@ -1,1 +1,1 @@
-	from 2020,github default branch is main. But if you create a file locally with git init, it creates in a master branch. We can move(aka rename) local master to main and push to remote main.
+to be deleted
